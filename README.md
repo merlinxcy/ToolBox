@@ -104,7 +104,7 @@ IOT，硬件相关工具和软件
 
 ## Pentest
 渗透测试工具（recon，scanning，enumerate,system hack，Post pentest）
-* Recon信息收集
+* Recon - 信息收集
   * SocialEngineer
     * blackeye - 钓鱼工具
   * SubDomain
@@ -118,7 +118,7 @@ IOT，硬件相关工具和软件
     * pwnedOrNot - OSINT Tool to Find Passwords for Compromised Email Addresses
     * spiderfoot - spiderfoot
     * Zeus-Scanner - Advanced reconnaissance utility
-* Scanning 扫描工具
+* Scanning - 扫描工具
   * Dirs
     * dirsearch - dirsearch
   * Allscanner - 数据库和其他服务的弱端口的弱口令检测以及未授权访问的集成检测工具
