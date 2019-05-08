@@ -110,73 +110,75 @@ IOT，硬件相关工具和软件
   * SubDomain
     * Sublist3r - 从公共API上进行sub domain枚举
   * OSINT
-    * gOSINT
-    * GitHack
-    * github
-    * GitMiner
-    * pagodo
-    * pwnedOrNot
-    * spiderfoot
-    * Zeus-Scanner
+    * gOSINT - golang osint 工具
+    * GitHack - githack
+    * github - github hack
+    * GitMiner - gitminer命令行git数据泄漏
+    * pagodo - google hack
+    * pwnedOrNot - OSINT Tool to Find Passwords for Compromised Email Addresses
+    * spiderfoot - spiderfoot
+    * Zeus-Scanner - Advanced reconnaissance utility
 * Scanning 扫描工具
   * Dirs
     * dirsearch - dirsearch
   * Allscanner - 数据库和其他服务的弱端口的弱口令检测以及未授权访问的集成检测工具
   * AutoSploit - Automated Mass Exploiter
-  * WpsScan
-  * bscan
-  * chomp-scan
-  * CMSmap
-  * dzscan
+  * WpsScan - wordpress scanner
+  * bscan - an asynchronous target enumeration tool
+  * chomp-scan - reconnaissance scan
+  * CMSmap - CMS指纹识别
+  * dzscan - web vul scan
   * Sitadel - web application scanner
-  * SRCHunter
-  * ssh-auditor
-  * ssrf
-  * w8scan
-  * w9scan
-  * WPSeku
+  * SRCHunter - 联合扫描
+  * ssh-auditor - ssh弱密码扫描
+  * ssrf - ssrf工具
+  * w8scan - w8scan
+  * w9scan - w9scan
+  * WPSeku - Wordpress Security Scanner
 * Enumerate
-  * BruteForce
-  * ds_store_exp
-  * dvcs-ripper
-  * medusa
-  * patator
-  * SvnHack
+  * BruteForce - bruteforce 工具
+  * ds_store_exp - ds_store泄漏工具
+  * dvcs-ripper - dvcs各种工具
+  * medusa - medusa爆破工具
+  * patator - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
+  * SvnHack - svn hack
 * System hack
   * MysqlUDF - mysql getshell
 * Post Pentest
   * Empire - Empire is a PowerShell and Python post-exploitation agent.
-  * koadic
-  * n00bRAT
+  * koadic - Koadic C3 COM Command & Control - JScript RAT
+  * n00bRAT - Remote Administration Toolkit (or Trojan) for POSiX (Linux/Unix) system working as a Web Service
+  * metasploit - msf
 
 ## Web
 web相关工具，web漏洞，扫描工具，代码审计工具等
-* Burpsuite
-* fiddler
-* sqlmap
-* HQLmap
-* NoSQLMap
-* tplmap
-* owtf
-* JavaID
-* AntSwords
-* cobra
-* POC-T
-* WebShell
-* Jenkins
-* Jetleak-Testing-Script
-* jetty
-* jexboss
-* mitmproxy
-* Photon
-* phpenv
-* phpRandom
-* phpvulhunter
-* Postman
-* pyshell
-* Struts2
-* WeBaCoo
-* web-log-parser
+* Burpsuite - Burpsuite
+* fiddler - fiddler
+* sqlmap - sqlmap
+* HQLmap - hql注入工具
+* NoSQLMap - nosql注入
+* tplmap - 模板注入
+* owtf - owtf
+* JavaID - java id
+* AntSwords - webshell 工具
+* cobra - cobra代码审计
+* POC-T - poc漏洞利用工具（大部分为web）
+* WebShell - webshell
+* Jenkins - Jenkins
+* Jetleak-Testing-Script - Jetleak
+* jetty - jetty
+* jexboss - jexboss
+* mitmproxy - 代理工具
+* Photon - photonjs
+* phpenv - php环境配置切换工具
+* phpRandom - php伪随机hack
+* javaRandomHack - java伪随机hack
+* phpvulhunter - php vul hack
+* Postman - postman
+* pyshell - pyshell
+* Struts2 - s2
+* WeBaCoo - Web Backdoor Cookie Script-Kit
+* web-log-parser - web log parser
 
 ## Others
 其他工具
@@ -185,14 +187,13 @@ web相关工具，web漏洞，扫描工具，代码审计工具等
 * LinkFinder - 提取文件中疑似的link
 * dnscat2  - dns隧道工具
 * impacket - 各种协议客户端，服务器
-* javaRandomHack - java伪随机hack
-* DNSTunnel
-* gost
+* DNSTunnel - dns隧道
+* gost - gost 代理工具
 * RSB-Framework - reverse shell backdoor
 * Sn1per - Automated pentest framework for offensive security experts
-* tcpproxy
-* tidos-framework
-* trojanizer
+* tcpproxy - tcpproxy
+* tidos-framework - The Offensive Manual Web Application Penetration Testing Framework
+* trojanizer - Trojanize your payload - WinRAR (SFX) automatization - under Linux distros
 
 ## 工具部署
 github上存在的项目默认会从github上拉取，部分非github工具将保存在该备份仓库中。
